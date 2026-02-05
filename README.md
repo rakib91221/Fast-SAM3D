@@ -15,7 +15,9 @@
 
 
 <div align="center">
-**[Weilun Feng](https://github.com/wlfeng0509)<sup>*</sup>, [Mingqiang Wu](https://github.com/)<sup>*</sup>, [Zhiliang Chen](https://github.com/), [Chuanguang Yang](https://github.com/)<sup>✉</sup>, [Haotong Qin](https://github.com/), [Yuqi Li](https://github.com/), [Xiaokun Liu](https://github.com/), [Guoxin Fan](https://github.com/), [Zhulin An](https://github.com/)<sup>✉</sup>, [Libo Huang](https://github.com/), [Yulun Zhang](https://github.com/), [Michele Magno](https://github.com/), [Yongjun Xu](https://github.com/)**
+**Weilun Feng** <sup>*</sup> ,**Mingqiang Wu**<sup>*</sup>, **Zhiliang Chen**, **Chuanguang Yang**<sup>✉</sup>, **Haotong Qin**, **Yuqi Li**, **Xiaokun Liu**, **Guoxin Fan**, **Zhulin An**<sup>✉</sup>, **Libo Huang**, **Yulun Zhang**, **Michele Magno**, **Yongjun Xu**
+
+</div>
 
 <sup>*</sup>Equal Contribution  <sup>✉</sup>Corresponding Author
 
